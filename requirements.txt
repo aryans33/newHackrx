@@ -1,0 +1,27 @@
+# Core FastAPI dependencies
+fastapi
+uvicorn
+pydantic
+python-multipart
+aiofiles
+python-dotenv
+requests
+httpx
+
+# Document processing
+llama-parse
+llama-index
+llama-index-vector-stores-pinecone
+llama-index-embeddings-gemini
+
+# Google AI (only what we need)
+google-generativeai
+
+# Vector database
+pinecone-client
+
+# LLM integration
+mistralai
+
+# Additional dependencies
+numpy
